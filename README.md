@@ -7,3 +7,7 @@
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: There's no fun fact
+
+## Badges
+
+![CodeWars](https://www.codewars.com/users/TheVicio/badges/small)
